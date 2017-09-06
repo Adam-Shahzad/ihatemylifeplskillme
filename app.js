@@ -1,0 +1,1 @@
+var demoApp = angular.module('pokeapp', ['ui.router']);
